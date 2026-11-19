@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<university>
+  <student ID="1" PIB="Коваленко Олена Петрівна" faculty="Факультет комп’ютерних наук та кібернетики" department="Кафедра програмних систем" course="2" group="КН-21" form="Бюджет" scholarship="Академічна" email="kovalenko@univ.ua">
+    <discipline name="Об’єктно-орієнтоване програмування" semester="3" credits="5" control="Екзамен" teacher="Петренко І.О." grade="95"/>
+    <discipline name="Бази даних" semester="3" credits="4" control="Екзамен" teacher="Мельник Т.В." grade="90"/>
+    <discipline name="Дискретна математика" semester="3" credits="4" control="Екзамен" teacher="Савченко Р.П." grade="88"/>
+  </student>
+  <student ID="2" PIB="Шевченко Андрій Миколайович" faculty="Факультет комп’ютерних наук та кібернетики" department="Кафедра програмних систем" course="2" group="КН-21" form="Контракт" scholarship="Немає">
+    <discipline name="Об’єктно-орієнтоване програмування" semester="3" credits="5" control="Екзамен" teacher="Петренко І.О." grade="72"/>
+    <discipline name="Бази даних" semester="3" credits="4" control="Екзамен" grade="68"/>
+    <discipline name="Алгоритми та структури даних" semester="3" credits="5" control="Екзамен" teacher="Ковальчук Н.М." grade="75"/>
+  </student>
+  <student ID="3" PIB="Бойко Марія Ігорівна" faculty="Факультет комп’ютерних наук та кібернетики" department="Кафедра теорії та технології програмування" course="3" group="КН-31" form="Бюджет" email="boyko@univ.ua">
+    <discipline name="Алгоритми та структури даних" semester="5" credits="5" control="Екзамен" teacher="Ковальчук Н.М." grade="98"/>
+    <discipline name="Операційні системи" semester="5" credits="4" control="Залік" teacher="Бондар А.С." grade="94"/>
+    <discipline name="Комп’ютерні мережі" semester="5" control="Залік" teacher="Бондар А.С." grade="91"/>
+    <discipline name="Веб-технології" semester="5" credits="4" control="Курсова робота" teacher="Мельник Т.В." grade="96"/>
+  </student>
+  <student ID="4" PIB="Ткаченко Дмитро Олегович" faculty="Механіко-математичний факультет" department="Кафедра математичної інформатики" course="1">
+    <discipline name="Математична логіка" semester="1" credits="3" control="Залік" teacher="Савченко Р.П." grade="81"/>
+    <discipline name="Дискретна математика" semester="1" credits="4" control="Екзамен" teacher="Савченко Р.П." grade="77"/>
+  </student>
+  <student ID="5" PIB="Мороз Софія Андріївна" faculty="Механіко-математичний факультет" department="Кафедра алгебри та комп’ютерної математики" course="1" group="ММ-11" scholarship="Академічна">
+    <discipline name="Математична логіка" semester="1" credits="3" control="Залік" teacher="Савченко Р.П." grade="100"/>
+    <discipline name="Дискретна математика" semester="1" credits="4" control="Екзамен" teacher="Савченко Р.П." grade="97"/>
+    <discipline name="Англійська мова" semester="1" credits="3" control="Залік" teacher="Гриценко О.В." grade="92"/>
+  </student>
+  <student ID="6" PIB="Кравченко Віталій Сергійович" faculty="Факультет інформаційних технологій" department="Кафедра комп’ютерних систем" course="3" group="ІТ-31" form="Контракт" scholarship="Немає" email="kravchenko@univ.ua">
+    <discipline name="Операційні системи" semester="5" credits="4" control="Залік" teacher="Бондар А.С." grade="61"/>
+    <discipline name="Комп’ютерні мережі" semester="5" credits="3" control="Залік" teacher="Бондар А.С." grade="64"/>
+    <discipline name="Веб-технології" semester="5" credits="4" teacher="Мельник Т.В." grade="70"/>
+  </student>
+  <student ID="7" PIB="Олійник Анна Василівна" faculty="Факультет інформаційних технологій" department="Кафедра комп’ютерних систем" course="4" form="Бюджет" scholarship="Соціальна" group="ІТ-41" email="oliynyk@univ.ua" phone="+380501112233">
+    <discipline name="Веб-технології" semester="7" credits="4" control="Курсова робота" teacher="Мельник Т.В." grade="93"/>
+    <discipline name="Бази даних" semester="7" credits="4" control="Екзамен" teacher="Мельник Т.В." grade="89"/>
+    <discipline name="Англійська мова" semester="7" credits="3" control="Залік" teacher="Гриценко О.В." grade="85"/>
+  </student>
+  <student ID="8" PIB="Лисенко Богдан Романович" faculty="Факультет комп’ютерних наук та кібернетики" department="Кафедра теорії та технології програмування" course="4" group="КН-41" form="Бюджет" scholarship="Академічна" email="lysenko@univ.ua" phone="+380672223344">
+    <discipline name="Алгоритми та структури даних" semester="7" credits="5" control="Екзамен" teacher="Ковальчук Н.М." grade="90"/>
+    <discipline name="Бази даних" semester="7" credits="4" control="Екзамен" teacher="Мельник Т.В." grade="87"/>
+    <discipline name="Теорія ймовірностей" semester="7" credits="4" control="Екзамен" teacher="Ткачук В.І." grade="84"/>
+    <discipline name="Об’єктно-орієнтоване програмування" credits="5" control="Екзамен" teacher="Петренко І.О." grade="92"/>
+  </student>
+  <student ID="9" PIB="Гончар Ірина Павлівна" faculty="Механіко-математичний факультет" department="Кафедра математичної інформатики" course="2" group="ММ-21" form="Контракт">
+    <discipline name="Теорія ймовірностей" semester="3" credits="4" control="Екзамен" teacher="Ткачук В.І." grade="79"/>
+    <discipline name="Математична логіка" semester="3" credits="3" control="Залік" teacher="Савченко Р.П." grade="83"/>
+    <discipline name="Дискретна математика" semester="3" credits="4" control="Екзамен" teacher="Савченко Р.П." grade="74"/>
+  </student>
+  <student ID="10" PIB="Савчук Олександр Іванович" faculty="Факультет інформаційних технологій" department="Кафедра комп’ютерних систем" course="1" group="ІТ-11" scholarship="Немає">
+    <discipline name="Англійська мова" semester="1" credits="3" control="Залік" teacher="Гриценко О.В." grade="66"/>
+    <discipline name="Дискретна математика" semester="1" credits="4" control="Екзамен" teacher="Савченко Р.П." grade="59"/>
+  </student>
+  <student ID="11" PIB="Пономаренко Катерина Юріївна" faculty="Факультет комп’ютерних наук та кібернетики" department="Кафедра програмних систем" course="3" group="КН-32" form="Бюджет" scholarship="Академічна" phone="+380931112244">
+    <discipline name="Операційні системи" semester="5" credits="4" control="Залік" teacher="Бондар А.С." grade="96"/>
+    <discipline name="Об’єктно-орієнтоване програмування" semester="5" credits="5" control="Екзамен" teacher="Петренко І.О." grade="99"/>
+    <discipline name="Алгоритми та структури даних" semester="5" credits="5" control="Екзамен" teacher="Ковальчук Н.М." grade="97"/>
+  </student>
+  <student ID="12" PIB="Руденко Максим Анатолійович" faculty="Механіко-математичний факультет" department="Кафедра алгебри та комп’ютерної математики" course="4" group="ММ-41" form="Контракт" scholarship="Соціальна" email="rudenko@univ.ua" phone="+380991234567">
+    <discipline name="Теорія ймовірностей" semester="7" credits="4" control="Екзамен" teacher="Ткачук В.І." grade="71"/>
+    <discipline name="Математична логіка" semester="7" credits="3" control="Залік" teacher="Савченко Р.П." grade="76"/>
+    <discipline name="Англійська мова" semester="7" credits="3" control="Залік" teacher="Гриценко О.В." grade="80"/>
+  </student>
+</university>
